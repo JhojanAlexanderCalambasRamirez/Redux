@@ -339,4 +339,5 @@ En 2014, Dan Abramov, un ingeniero de software de Facebook, introdujo Redux, una
 * [Redux Essentials, Part 1: Redux Overview and Concepts](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 * [Redux Essentials, Part 2: Redux Toolkit App Structure](https://redux.js.org/tutorials/essentials/part-2-app-structure)
 * [Redux Toolkit Quick Start](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)#   R e d u x  
+ #   R e d u x  
  
